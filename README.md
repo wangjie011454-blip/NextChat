@@ -248,11 +248,11 @@ ByteDance Api Url.
 
 ### `ALIBABA_API_KEY` (optional)
 
-Alibaba Cloud Api Key.
+Alibaba Cloud Api Key.find it at [Alibaba Cloud API documentation](https://bailian.console.aliyun.com/?tab=api#/api)
 
 ### `ALIBABA_URL` (optional)
 
-Alibaba Cloud Api Url.
+Alibaba Cloud Api Url.find it at [Alibaba Cloud API documentation](https://bailian.console.aliyun.com/?tab=api#/api)
 
 ### `IFLYTEK_URL` (Optional)
 
