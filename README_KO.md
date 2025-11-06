@@ -256,11 +256,11 @@ ByteDance API URL입니다.
 
 ### `ALIBABA_API_KEY` (선택 사항)
 
-Alibaba Cloud API 키입니다.
+Alibaba Cloud API 키입니다.[Alibaba Cloud API](https://bailian.console.aliyun.com/?tab=api#/api)
 
 ### `ALIBABA_URL` (선택 사항)
 
-Alibaba Cloud API URL입니다.
+Alibaba Cloud API URL입니다.[Alibaba Cloud API](https://bailian.console.aliyun.com/?tab=api#/api)
 
 ### `IFLYTEK_URL` (선택 사항)
 
