@@ -1,4 +1,4 @@
-<div align="center">
+<img width="893" height="525" alt="image" src="https://github.com/user-attachments/assets/171a99ad-66fb-4a2f-8fd2-2ebd2f1fe330" /><div align="center">
 <img src="./docs/images/ent.svg" alt="プレビュー"/>
 
 <h1 align="center">NextChat</h1>
@@ -172,11 +172,11 @@ ByteDance API の URL。
 
 ### `ALIBABA_API_KEY` (オプション)
 
-アリババ（千问）API キー。
+アリババ（千问）API キー。[Alibaba Cloud API ドキュメント](https://bailian.console.aliyun.com/?tab=api#/api)
 
 ### `ALIBABA_URL` (オプション)
 
-アリババ（千问）API の URL。
+アリババ（千问）API の URL。[Alibaba Cloud API ドキュメント](https://bailian.console.aliyun.com/?tab=api#/api)
 
 ### `HIDE_USER_API_KEY` （オプション）
 
