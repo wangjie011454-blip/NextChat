@@ -175,11 +175,13 @@ ByteDance Api Url.
 
 ### `ALIBABA_API_KEY` (可选)
 
-阿里云（千问）Api Key.[阿里云百炼API文档](https://bailian.console.aliyun.com/?tab=api#/api)
+阿里云（千问）Api Key.
+参考：[阿里云百炼API文档](https://bailian.console.aliyun.com/?tab=api#/api)
 
 ### `ALIBABA_URL` (可选)
 
-阿里云（千问）Api Url.[阿里云百炼API文档](https://bailian.console.aliyun.com/?tab=api#/api)
+阿里云（千问）Api Url.
+参考：[阿里云百炼API文档](https://bailian.console.aliyun.com/?tab=api#/api)
 
 ### `IFLYTEK_URL` (可选)
 
